@@ -1,3 +1,2 @@
 # Test
-To test the git push command
-To test the webhook
+To test the config.yml file in Tugboat
